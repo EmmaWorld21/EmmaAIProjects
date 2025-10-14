@@ -96,7 +96,11 @@ Ask your question (q to quit): What are currently the top 2 rated products?
 
 [The Llama 3.2 generated answer based on retrieved reviews.]
 --------------------
+<img width="1387" height="326" alt="Image" src="https://github.com/user-attachments/assets/b050d86b-6b6a-44f8-805f-be6dd14cc870" />
 
+<img width="1386" height="334" alt="Image" src="https://github.com/user-attachments/assets/23541002-9e8f-40a3-b47a-5e848089c407" />
+
+<img width="1320" height="311" alt="Image" src="https://github.com/user-attachments/assets/24e8ffc8-47d8-4133-963e-ac580f2ee421" />
 -----------------------------------------
 Ask your question (q to quit): What is the average price of the high-rated items?
 
