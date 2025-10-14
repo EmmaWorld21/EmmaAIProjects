@@ -105,3 +105,6 @@ Ask your question (q to quit): What is the average price of the high-rated items
 
 **Exit: To end the session, type q and press Enter.**
 
+
+<img width="419" height="59" alt="Image" src="https://github.com/user-attachments/assets/4bca09ec-58b9-4efd-9934-5998196b91f6" />
+
