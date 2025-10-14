@@ -5,12 +5,6 @@
 ### Introduction
 In Many Organizations, accessing specific data insights requires knowledge of complex questy language like SQL or Kusto(KQL). This project aims to simplify this process by creating a conversational interface that allows anyone to ask a question and receive a data-driven answer.
 
-### Key Features: 
-  #Front-end: interface for user input
-  #Back-end:Receive user's questions
-  #Integration: LLM to convert natural language questions into SQL or KQL queries
-  #Execution: Generate query againts a sample database
-  #Output: PResentation of the result back to the user in a readable format
 
 ### How it works
 A user enter a question into the chat interface
@@ -21,10 +15,10 @@ The backend executes the query against the database
 The result is formatted and returned to the frontend, which displays the answer to the user
 
 ### Methodologies
-Code: python
-LLM Integration: llama 3.2
-RAG: retrieved from vector database 
-Data Source: from Kaggle csv file amazon product sales
+Code: python<br>
+LLM Integration: llama 3.2<br>
+RAG: retrieved from vector database <br>
+Data Source: from Kaggle csv file amazon product sales  <br>
   
   
 
@@ -50,20 +44,20 @@ Before running the application, ensure you have the following installed:
 
 ***Dependencies: Required Python libraries include "pandas", langchain-core, langchain-ollama***
 
-***Data Source: kaggle.*** amazon product sales csv file
+***Data Source: kaggle*** amazon product sales csv file
 
 
 ### ⚙️ Setup and Installation
 
 **Step 1:Install Ollama and Download the Model**
 
-You must have the Ollama server running locally.
+*You must have the Ollama server running locally.
 
-Install Ollama: Follow the instructions on the Ollama website for your operating system (macOS, Linux, or Windows).
+*Install Ollama: Follow the instructions on the Ollama website for your operating system (macOS, Linux, or Windows).
 
-Pull the Model: Open your terminal or command prompt and download the required model:
+*Pull the Model: Open your terminal or command prompt and download the required model:
 
-ollama pull llama3.2
+*ollama pull llama3.2 model
 
 **Step 2: Install Python Dependencies**
 
@@ -110,3 +104,4 @@ Ask your question (q to quit): What is the average price of the high-rated items
 #### ... and so on
 
 **Exit: To end the session, type q and press Enter.**
+
